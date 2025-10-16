@@ -23,3 +23,6 @@ This is a beginner-friendly command-line password manager built with Python.
 
 2. Second, run the main program
    in bash: "python3 key_manager.py"
+
+## Reminder
+note that i have made the whole program longer just to help understand what all happens under the hood.this practice,although educational is not optimal at all.

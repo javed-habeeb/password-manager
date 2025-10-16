@@ -13,7 +13,7 @@ This is a beginner-friendly command-line password manager built with Python.
 ## 📁 Files Explained
 
 - `key_manager.py`: Creates the encryption key
-- `passwordgenerator.py`: The main app (menu, generate, save, load, etc.)
+- `passwordgenerator.py`: The main program (menu, generate, save, load, etc.)
 
 ## 🛠️ How to Use
 
